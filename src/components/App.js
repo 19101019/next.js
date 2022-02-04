@@ -109,7 +109,7 @@ const App = () => {
           </Route>
           <Route>
             <div className="flex-grow">
-              <PageNotFound />
+              
             </div>
           </Route>
         </Switch>
